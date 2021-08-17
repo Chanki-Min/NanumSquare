@@ -24,11 +24,11 @@ Regular(400), Bold(700), Extra Bold(800), Light(300)가 지원됩니다.
 
 ### link 방식 (권장)
 
-    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/Chanki-Min/NanumSquare@1.1/nanumsquare.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/Chanki-Min/NanumSquare@1.2/nanumsquare.css">
 
 ### import 방식
 
-    @import url(https://cdn.jsdelivr.net/gh/Chanki-Min/NanumSquare@1.1/nanumsquare.css);
+    @import url(https://cdn.jsdelivr.net/gh/Chanki-Min/NanumSquare@1.2/nanumsquare.css);
 
 ## 적용
 
